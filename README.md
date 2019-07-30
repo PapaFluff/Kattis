@@ -1,0 +1,2 @@
+# Kattis
+Practice on Kattis.
